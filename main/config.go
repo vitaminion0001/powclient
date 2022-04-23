@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	"github.com/vitelabs/powclient/log15"
+	"github.com/vitaminion0001/powclient/log15"
 	"gopkg.in/natefinch/lumberjack.v2"
 	"os"
 	"os/user"

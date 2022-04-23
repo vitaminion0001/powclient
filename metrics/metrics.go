@@ -7,7 +7,7 @@ package metrics
 
 import (
 	"github.com/elastic/gosigar"
-	"github.com/vitelabs/powclient/log15"
+	"github.com/vitaminion0001/powclient/log15"
 	"runtime"
 	"strings"
 	"time"

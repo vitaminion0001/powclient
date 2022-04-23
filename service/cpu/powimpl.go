@@ -8,7 +8,7 @@ import (
 	"github.com/vitelabs/go-vite/common/types"
 	"github.com/vitelabs/go-vite/crypto"
 	"github.com/vitelabs/go-vite/pow"
-	"github.com/vitelabs/powclient/log15"
+	"github.com/vitaminion0001/powclient/log15"
 	"golang.org/x/crypto/blake2b"
 	"math/big"
 	"runtime"

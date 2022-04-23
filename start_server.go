@@ -2,11 +2,11 @@ package powclient
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/vitelabs/powclient/log15"
-	"github.com/vitelabs/powclient/metrics"
-	"github.com/vitelabs/powclient/metrics/influxdb"
-	"github.com/vitelabs/powclient/service/cpu"
-	"github.com/vitelabs/powclient/service/gpu"
+	"github.com/vitaminion0001/powclient/log15"
+	"github.com/vitaminion0001/powclient/metrics"
+	"github.com/vitaminion0001/powclient/metrics/influxdb"
+	"github.com/vitaminion0001/powclient/service/cpu"
+	"github.com/vitaminion0001/powclient/service/gpu"
 	"time"
 )
 

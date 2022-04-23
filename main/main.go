@@ -2,9 +2,9 @@ package main
 
 import (
 	"flag"
-	"github.com/vitelabs/powclient"
-	"github.com/vitelabs/powclient/log15"
-	"github.com/vitelabs/powclient/metrics"
+	"github.com/vitaminion0001/powclient"
+	"github.com/vitaminion0001/powclient/log15"
+	"github.com/vitaminion0001/powclient/metrics"
 )
 
 var log = log15.New("module", "main")

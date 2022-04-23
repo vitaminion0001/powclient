@@ -3,8 +3,8 @@ package influxdb
 import (
 	"fmt"
 	"github.com/influxdata/influxdb/client/v2"
-	"github.com/vitelabs/powclient/log15"
-	"github.com/vitelabs/powclient/metrics"
+	"github.com/vitaminion0001/powclient/log15"
+	"github.com/vitaminion0001/powclient/metrics"
 	"time"
 )
 
