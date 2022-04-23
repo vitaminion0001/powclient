@@ -3,10 +3,10 @@ package gpu
 import (
 	"github.com/gin-gonic/gin"
 	"github.com/vitelabs/go-vite/common/types"
-	"github.com/vitelabs/powclient/log15"
-	"github.com/vitelabs/powclient/metrics"
-	"github.com/vitelabs/powclient/service/context"
-	"github.com/vitelabs/powclient/util"
+	"github.com/vitaminion0001/powclient/log15"
+	"github.com/vitaminion0001/powclient/metrics"
+	"github.com/vitaminion0001/powclient/service/context"
+	"github.com/vitaminion0001/powclient/util"
 	"strconv"
 	"time"
 )
